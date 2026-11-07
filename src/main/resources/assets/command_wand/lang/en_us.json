@@ -1,0 +1,7 @@
+{
+  "command_wand.gui.title.configs": "Command Block Wand Settings",
+  "key.command_wand.wheel": "Open Skill Wheel",
+  "key.command_wand.config": "Open Skill Config Screen",
+  "key.command_wand.settings": "Open Global Settings",
+  "key.category.command_wand.main": "Command Block Wand"
+}

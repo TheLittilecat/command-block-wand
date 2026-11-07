@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "command_wand",
+  "version": "${version}",
+  "name": "命令方块权杖",
+  "description": "手持命令方块权杖按 R 打开扇形技能轮盘，N 编辑技能，B 打开全局设置。右键释放技能。",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "command.wand.CommandWandClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

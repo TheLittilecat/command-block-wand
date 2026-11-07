@@ -1,0 +1,7 @@
+{
+  "command_wand.gui.title.configs": "命令方块权杖设置",
+  "key.command_wand.wheel": "打开技能轮盘",
+  "key.command_wand.config": "打开技能配置界面",
+  "key.command_wand.settings": "打开全局设置界面",
+  "key.category.command_wand.main": "命令方块权杖"
+}
